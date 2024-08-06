@@ -1,0 +1,10 @@
+.collapse{
+    display:flex;
+    justify-content: center;
+}
+
+
+#cardeevento{
+    display:flex;
+    justify-content:center;  
+}  
